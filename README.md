@@ -11,5 +11,6 @@ After the fun part of researching, testing and experimenting comes the boring pa
   - `HTTP_USERNAME`
   - `HTTP_REPO_URL`
   - `HTTP_TOKEN`
+4. In the _Pages_ settings of your repo select _GitHub Actions_ under _Source_.
 
 _The workflow will run every hour!_
