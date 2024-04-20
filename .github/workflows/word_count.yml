@@ -1,8 +1,7 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy thesis word count to Pages
 
 on:
-  # Runs every 30 minutes
+  # Runs every hour
   schedule:
     - cron: '0 * * * *'
 
